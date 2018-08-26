@@ -5,18 +5,13 @@ A Python2 SDK for CoinMex Exchange API
 
 ```python
 
-    /**
-     * 用户 apiKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
-     */
+    # 用户 apiKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
     api_key = ""
-    /**
-     * 用户 secretKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
-     */
+    # 用户 secretKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
     seceret_key = ""
-    /**
-     * 口令，需用户填写，在 https://www.coinmex.com/user  api 中获取（创建时由用户设定）
-     */
+    # 口令，需用户填写，在 https://www.coinmex.com/user  api 中获取（创建时由用户设定）
     passphrase = ""
+    
 ```
 
 2.运行 example.py 用例
